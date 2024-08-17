@@ -12,12 +12,18 @@ DSLR Power Camera is a configuration setting for LMC 8.4 Release 18. based on Se
 # How HD, FHD, and QHD options work?
 We have to emulate this on my Samsung Phone and show you the demo on the image:
 
-![Slide 16_9 - 1](https://github.com/user-attachments/assets/3ed88ea8-b9cf-41ca-a045-8d2663e0d25a)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/3ed88ea8-b9cf-41ca-a045-8d2663e0d25a">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/42dc219a-f816-4742-8c70-382de497dddb">
+  <img alt="Speedo Logo" src="https://github.com/user-attachments/assets/3ed88ea8-b9cf-41ca-a045-8d2663e0d25a">
+</picture>
+
 This image shows the detiled information about the `Resolution`, `Megapixel`, `Raw Size`, and `Possible Image File Size`
 
 ## Take Note!
 > - Some devices will have a different megapixel based on the manufacturers.
 > - **Upscale/Downscale** feature will only work on Devices with **Level 3** Haredware Support Level. **Full** Hardware support level does not work.
+> - Upscaling will only work in **Camera Mode**. To use very high quality with Portrait effect, You can create the Portrait Bokeh effect using Google Photos.
 
 # Notices and Importances
 > [!important]
