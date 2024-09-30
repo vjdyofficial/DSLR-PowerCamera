@@ -15,24 +15,24 @@ DSLR Power Camera is a configuration setting for LMC 8.4 Release 18. based on
 Here are the meanings of the modes and details explained by ChatGPT in order to make this preset possible.
 
 ## Selebgram 16
-1. **IMX** (Ideal Maximizer): Optimized for enhancing the natural beauty without altering the essence of the photo. Best used for everyday photography where you want to subtly boost clarity and color without dramatic changes.
-2. **HMX** (High-Definition Maximizer): Designed to bring out fine details through increased contrast and sharpness. Ideal for architectural and landscape photography where texture and detail are key.
-3. **AFX** (Artistic Flare eXtreme): Introduces a vibrant, almost surreal enhancement of colors, making it perfect for artistic projects or any situation where you want the image to make a bold statement.
+1. **IMX** (Ideal Maximizer): <br>Optimized for enhancing the natural beauty without altering the essence of the photo. Best used for everyday photography where you want to subtly boost clarity and color without dramatic changes.
+2. **HMX** (High-Definition Maximizer): <br>Designed to bring out fine details through increased contrast and sharpness. Ideal for architectural and landscape photography where texture and detail are key.
+3. **AFX** (Artistic Flare eXtreme): <br>Introduces a vibrant, almost surreal enhancement of colors, making it perfect for artistic projects or any situation where you want the image to make a bold statement.
 
 ## Riyan Nature
-4. **VIB** (Vibrant Intensity Boost): _based on Sky Blue_ - Amplifies colors to create vivid, eye-catching images. Great for marketing materials or any media that needs to stand out in a visually competitive environment.
-5. **SUN** (Sunset/Sunrise Optimizer): _based on Sunset Glow_ - Adds a warm, golden tint, mimicking the soft lighting of golden hour. Ideal for portraits, weddings, and event photography to add a touch of warmth and romance.
-6. **RTO** (Real Tone Optimizer): _based on Aqua Moody Blue_ - Provides a cooler, more subdued color palette that reflects a true-to-life visual experience. Best for documenting real-life scenes where natural colors are preferred.
+4. **VIB** (Vibrant Intensity Boost): _based on Sky Blue_ <br>Amplifies colors to create vivid, eye-catching images. Great for marketing materials or any media that needs to stand out in a visually competitive environment.
+5. **SUN** (Sunset/Sunrise Optimizer): _based on Sunset Glow_ <br>Adds a warm, golden tint, mimicking the soft lighting of golden hour. Ideal for portraits, weddings, and event photography to add a touch of warmth and romance.
+6. **RTO** (Real Tone Optimizer): _based on Aqua Moody Blue_ <br>Provides a cooler, more subdued color palette that reflects a true-to-life visual experience. Best for documenting real-life scenes where natural colors are preferred.
 
 _Each of these presets can be chosen to match the desired emotional tone and creative intent of the photographer, enhancing both the aesthetics and narrative of the images._
 
 > [!note]
 > - Be sure that the **Front without restart** option is always enabled in order to use these presets. otherwise, the presets won't be applied and it will use it's specific value settings.
-> - THese presets would not be applied into the video recording.
+> - These presets would not be applied into the video recording.
 
 # Differents between 6 presets
 ![InShot_20240923_132518011](https://github.com/user-attachments/assets/dd156501-a805-4cb3-9150-33609904ca59)
-The image six different color grading presets applied to a tropical landscape scene. These presets appear to modify color saturation, contrast, and overall tone, enhancing the aesthetic qualities in different ways. Here's a brief look at each preset:
+The image shows six different color grading presets applied to a tropical landscape scene. These presets appear to modify color saturation, contrast, and overall tone, enhancing the aesthetic qualities in different ways. Here's a brief look at each preset:
 
 1. IMX: Offers a balanced enhancement, brightening the greens and blues without oversaturating.
 2. HMX: Appears to increase the contrast slightly more than IMX, giving a sharper definition especially in the foliage.
@@ -56,12 +56,12 @@ IMX or SUN would be recommended for human portraits and selfies. IMX offers a na
 # Ratings
 ChatGPT will rate the presets based on their overall visual appeal and effectiveness in enhancing the scene:
 
-1. IMX: 8/10 - Well-balanced enhancement, good for general use.
-2. HMX: 7/10 - Slightly higher contrast than IMX, effective but can be a bit harsh.
-3. AFX: 6/10 - Very vibrant, tends to oversaturate which might not be suitable for all scenes.
-4. VIB: 7/10 - High vibrancy, good for making colors pop, but can be too much for subtle scenes.
-5. SUN: 8/10 - Excellent for simulating golden hour light, very appealing for warm-toned photography.
-6. RTO: 7/10 - Cool and slightly muted, good for specific moods but less versatile than others.
+1. IMX: 8/10 <br> _Well-balanced enhancement, good for general use._
+2. HMX: 7/10 <br> _Slightly higher contrast than IMX, effective but can be a bit harsh._
+3. AFX: 6/10 <br> _Very vibrant, tends to oversaturate which might not be suitable for all scenes._
+4. VIB: 7/10 <br> _High vibrancy, good for making colors pop, but can be too much for subtle scenes._
+5. SUN: 8/10 <br> _Excellent for simulating golden hour light, very appealing for warm-toned photography._
+6. RTO: 7/10 <br> _Cool and slightly muted, good for specific moods but less versatile than others._
 
 _These ratings are subjective and depend on personal preference and the specific application of the presets in various photographic scenarios._
 
